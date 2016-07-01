@@ -1,0 +1,14 @@
+c:\users\jerred.almasco\documents\visual studio 2013\Projects\Operators\Operators\bin\Debug\Operators.exe.config
+C:\Users\jerred.almasco\OneDrive\Operators\Operators\bin\Debug\Operators.exe.config
+C:\Users\jerred.almasco\OneDrive\Operators\Operators\bin\Debug\Operators.exe
+C:\Users\jerred.almasco\OneDrive\Operators\Operators\bin\Debug\Operators.pdb
+C:\Users\jerred.almasco\OneDrive\Operators\Operators\obj\Debug\Operators.csprojResolveAssemblyReference.cache
+C:\Users\jerred.almasco\OneDrive\Operators\Operators\obj\Debug\Operators.Operator_Login.resources
+C:\Users\jerred.almasco\OneDrive\Operators\Operators\obj\Debug\Operators.Properties.Resources.resources
+C:\Users\jerred.almasco\OneDrive\Operators\Operators\obj\Debug\Operators.Register_Form.resources
+C:\Users\jerred.almasco\OneDrive\Operators\Operators\obj\Debug\Operators.ShowData.resources
+C:\Users\jerred.almasco\OneDrive\Operators\Operators\obj\Debug\Operators.csproj.GenerateResource.Cache
+C:\Users\jerred.almasco\OneDrive\Operators\Operators\obj\Debug\Operators.exe
+C:\Users\jerred.almasco\OneDrive\Operators\Operators\obj\Debug\Operators.pdb
+C:\Users\jerred.almasco\OneDrive\Operators\Operators\obj\Debug\Operators.AddEditDeleteDomain.resources
+C:\Users\jerred.almasco\OneDrive\Operators\Operators\obj\Debug\Operators.TabMain.resources
